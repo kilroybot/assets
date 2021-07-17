@@ -1,143 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="500"
-   height="500"
-   viewBox="0 0 132.29166 132.29167"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="logo-black-bg-rounded.svg"
-   inkscape:export-filename="/home/scoutboy/Desktop/repos/kilroy/assets/logos/png/logo-black-bg-rounded.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#999999"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     units="px"
-     width="1000px"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-text-baseline="true"
-     inkscape:snap-page="true"
-     inkscape:snap-global="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="290.97444"
-     inkscape:cy="269.40768"
-     inkscape:window-width="1920"
-     inkscape:window-height="1010"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
-  <defs
-     id="defs2" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Background"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round"
-       id="path2003"
-       cx="66.145836"
-       cy="66.145836"
-       r="66.145828" />
+<svg width="500" height="500" version="1.1" viewBox="0 0 132.29 132.29" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <circle cx="66.146" cy="66.146" r="66.146" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6458"/>
+ </g>
+ <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#fff">
+   <g>
+    <circle cx="53.578" cy="62.022" r="2.8009" stroke-width="2.6458" style="paint-order:normal"/>
+    <ellipse cx="78.711" cy="62.022" rx="2.801" ry="2.8009" stroke-width="2.6458" style="paint-order:normal"/>
+    <g stroke-width="10">
+     <path transform="scale(.26458)" d="m419.25 250h30.752" style="paint-order:stroke markers fill"/>
+     <path transform="scale(.26458)" d="m273.45 250 102.29 2e-5" style="paint-order:stroke markers fill"/>
+     <path transform="scale(.26458)" d="m124.21 250h102.34" style="paint-order:stroke markers fill"/>
+     <path transform="scale(.26458)" d="m50 250 30.795-1e-5" style="paint-order:stroke markers fill"/>
+    </g>
+    <path d="m41.011 66.009a25.135 25.135 0 0 1 24.96-24.998 25.135 25.135 0 0 1 25.306 24.648" stroke-width="2.6458" style="paint-order:normal"/>
+   </g>
+   <g stroke-width="2.6458">
+    <path d="m71.258 59.641c7.4536 33.864-17.679 33.864-10.223 2e-6"/>
+    <circle cx="27.12" cy="66.009" r="5.7563" style="paint-order:normal"/>
+    <circle cx="105.17" cy="66.146" r="5.7563" style="paint-order:normal"/>
+   </g>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 1">
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="circle7473"
-       cx="53.578125"
-       cy="62.022053"
-       r="2.8008685" />
-    <ellipse
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="circle7139"
-       cx="78.711136"
-       cy="62.022049"
-       rx="2.8010001"
-       ry="2.8008685" />
-    <path
-       id="path1078"
-       style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="M 419.24807 250.00001 L 450.00003 250.00001 "
-       transform="scale(0.26458333)" />
-    <path
-       id="path5350"
-       style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="M 273.44727 249.99998 L 375.7344 250 "
-       transform="scale(0.26458333)" />
-    <path
-       id="path3785"
-       style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="M 124.20703 250 L 226.55079 250 "
-       transform="scale(0.26458333)" />
-    <path
-       id="path4691"
-       style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="M 49.999997 250.00001 L 80.794921 250 "
-       transform="scale(0.26458333)" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="path1447"
-       sodipodi:type="arc"
-       sodipodi:cx="66.145836"
-       sodipodi:cy="66.145836"
-       sodipodi:rx="25.135418"
-       sodipodi:ry="25.135418"
-       sodipodi:start="3.1470276"
-       sodipodi:end="6.2638027"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
-       d="M 41.010789,66.009227 A 25.135418,25.135418 0 0 1 65.970547,41.011029 25.135418,25.135418 0 0 1 91.276532,65.658676" />
-    <path
-       id="circle1657"
-       style="fill:none;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="m 71.257515,59.640666 c 7.453621,33.863896 -17.67939,33.863896 -10.223358,2e-6"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="circle3465"
-       cx="27.1201"
-       cy="66.009224"
-       r="5.756321" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="circle3503"
-       cx="105.16954"
-       cy="66.145836"
-       r="5.756321" />
-    <circle
-       style="fill:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round"
-       id="path1877"
-       cx="66.145836"
-       cy="66.145836"
-       r="66.145828" />
-  </g>
+  <circle cx="66.146" cy="66.146" r="66.146" stroke-width="2.6458"/>
+ </g>
 </svg>
